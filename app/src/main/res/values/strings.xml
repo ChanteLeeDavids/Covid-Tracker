@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">CovidTracker</string>
+
     <string name="title_activity_maps">MapsActivity</string>
+
+    <string name = "api_key">f5efa30dbdfb42ad878aa904c362cf00"</string>
+
+    //the end of page
+
 </resources>
